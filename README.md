@@ -1,19 +1,13 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090e,30:161233,70:3b0066,100:00f2fe&height=220&section=header&text=Oguz%20Ayhan&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=AI%20Builder%20%7C%20Product%20Architect&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090e,30:161233,70:3b0066,100:00f2fe&height=180&section=header&text=Oguz%20Ayhan&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=AI%20Builder%20%7C%20Product%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </div>
 
-<!-- BIO & SLOGANS -->
+<!-- BIO & WELCOME -->
 <div align="center">
-  <h2>🚀 AI Product Builder</h2>
-  <p><em>Detecting real-world problems, designing system specs, and engineering end-to-end solutions.</em></p>
-  <p><strong>Minimalist • Disciplined • Value-Oriented • San Francisco Bound</strong></p>
-  
-  <br/>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=2500&pause=1000&color=00f2fe&center=true&vCenter=true&width=600&height=40&lines=Solving+real+problems+with+AI;Building+end-to-end+products;Minimalist.+Disciplined.+Value-Oriented.;San+Francisco+Bound." alt="Typing SVG" />
-  </a>
+  <h2>Hey, it's Oguz 👋</h2>
+  <p><strong>AI Builder</strong> — I detect problems, write system specs, and orchestrate AI agents to build end-to-end products.</p>
+  <p><em>Minimalist • Disciplined • Value-Oriented • San Francisco Bound</em></p>
 </div>
 
 ---
