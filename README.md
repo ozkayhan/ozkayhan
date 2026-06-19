@@ -68,11 +68,35 @@
 
 ## 🛠️ Favorite Stack & Tools
 
-<div align="left">
-  <p>The foundational tools and frameworks I use to build and deploy high-quality web products:</p>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,supabase,vercel,github,vscode,bun&theme=dark" height="42px" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="25%"><strong>Languages &amp; Core</strong></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind&theme=dark" height="35px" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Data &amp; Design</strong></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=supabase,figma&theme=dark" height="35px" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Orchestration &amp; AI</strong></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" height="24px" />
+      <img src="https://img.shields.io/badge/Conductor-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="24px" />
+      <img src="https://img.shields.io/badge/Antigravity-FF007A?style=for-the-badge&logo=codeforces&logoColor=white" height="24px" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Dev Environment</strong></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=vercel,github,vscode&theme=dark" height="35px" />
+      <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="24px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
