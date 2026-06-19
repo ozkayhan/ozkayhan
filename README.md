@@ -19,7 +19,7 @@
     <td width="33%" valign="top">
       <div align="center">
         <h3>📋 askuserquestionspro</h3>
-        <p><em>Browser-based UI overlay for Claude Code</em></p>
+        <p><em>10x Better Alternative to built-in AskUserQuesitons</em></p>
       </div>
       <p>Intercepts Claude Code terminal prompt select screens and routes them to a dynamic 5-themed localhost browser panel. Eliminates the 4-question limit to process hundreds of questions instantly.</p>
       <div align="center">
@@ -29,7 +29,7 @@
     <td width="33%" valign="top">
       <div align="center">
         <h3>🌦️ weatheroz</h3>
-        <p><em>Race-to-consensus weather CLI/TUI</em></p>
+        <p><em>Uptime and speed optimized weather-forecast cli for agents</em></p>
       </div>
       <p>Queries 18 meteorology sources concurrently, racing responses and averaging results to deliver highly validated, offline-cached local weather reports directly in your shell.</p>
       <div align="center">
@@ -39,7 +39,7 @@
     <td width="33%" valign="top">
       <div align="center">
         <h3>🗺️ myway</h3>
-        <p><em>AMOLED productivity suite</em></p>
+        <p><em>The only personal producivity app you need. AI Native</em></p>
       </div>
       <p>Consolidates tasks, habits, and calendars into a single monochrome dashboard. Features a keyboard-driven interface built for independent creators and builders.</p>
       <div align="center">
