@@ -89,11 +89,16 @@
 
 ---
 
-## 📊 Current Work
+## 💼 Open for Opportunities
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ozkayhan/ozkayhan/main/current-work.svg" alt="Oguz Ayhan - Current Work Status" width="100%"/>
-</div>
+<table width="100%">
+  <tr>
+    <td style="background-color: #09090b; border: 1px solid #1f1f23; border-radius: 8px; padding: 20px;">
+      <h3>✨ Let's Collaborate</h3>
+      <p>I am open to contract roles, technical product spec-writing, and consulting on AI-native engineering pipelines. If you have an interesting challenge or want to build a product from 0 to 1, feel free to reach out.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
