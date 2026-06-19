@@ -23,8 +23,7 @@
       </div>
       <p>Intercepts Claude Code terminal prompt select screens and routes them to a dynamic 5-themed localhost browser panel. Eliminates the 4-question limit to process hundreds of questions instantly.</p>
       <div align="center">
-        <img src="https://img.shields.io/badge/Status-Stable-39ff14?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-Node.js-339933?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-CLI%20Hook-00f2fe?style=flat-square" />
       </div>
     </td>
     <td width="33%" valign="top">
@@ -34,8 +33,7 @@
       </div>
       <p>Queries 18 meteorology sources concurrently, racing responses and averaging results to deliver highly validated, offline-cached local weather reports directly in your shell.</p>
       <div align="center">
-        <img src="https://img.shields.io/badge/Status-Active-39ff14?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-TypeScript-3178C6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-CLI%20%2F%20TUI-00f2fe?style=flat-square" />
       </div>
     </td>
     <td width="33%" valign="top">
@@ -45,8 +43,7 @@
       </div>
       <p>Consolidates tasks, habits, and calendars into a single monochrome dashboard. Features a keyboard-driven interface built for independent creators and builders.</p>
       <div align="center">
-        <img src="https://img.shields.io/badge/Status-Stable-39ff14?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-Next.js-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-Web%20App-00f2fe?style=flat-square" />
       </div>
     </td>
   </tr>
@@ -70,27 +67,27 @@
 
 <table width="100%">
   <tr>
-    <td width="25%"><strong>Languages &amp; Core</strong></td>
+    <td width="25%" valign="middle"><strong>Languages &amp; Core</strong></td>
     <td valign="middle">
       <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind&theme=dark" height="35px" />
     </td>
   </tr>
   <tr>
-    <td width="25%"><strong>Data &amp; Design</strong></td>
+    <td width="25%" valign="middle"><strong>Data &amp; Design</strong></td>
     <td valign="middle">
       <img src="https://skillicons.dev/icons?i=supabase,figma&theme=dark" height="35px" />
     </td>
   </tr>
   <tr>
-    <td width="25%"><strong>Orchestration &amp; AI</strong></td>
+    <td width="25%" valign="middle"><strong>Orchestration &amp; AI</strong></td>
     <td valign="middle">
       <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" height="24px" />
-      <img src="https://img.shields.io/badge/Conductor-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="24px" />
-      <img src="https://img.shields.io/badge/Antigravity-FF007A?style=for-the-badge&logo=codeforces&logoColor=white" height="24px" />
+      <img src="https://img.shields.io/badge/Conductor-339933?style=for-the-badge&logo=githubactions&logoColor=white" height="24px" />
+      <img src="https://img.shields.io/badge/Antigravity-FF007A?style=for-the-badge&logo=terminal&logoColor=white" height="24px" />
     </td>
   </tr>
   <tr>
-    <td width="25%"><strong>Dev Environment</strong></td>
+    <td width="25%" valign="middle"><strong>Dev Environment</strong></td>
     <td valign="middle">
       <img src="https://skillicons.dev/icons?i=vercel,github,vscode&theme=dark" height="35px" />
       <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="24px" />
