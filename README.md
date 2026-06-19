@@ -59,7 +59,7 @@
 <table width="100%">
   <tr>
     <td>
-      <strong>🌐 <a href="https://ouzka.me" target="_blank">ouzka.me</a></strong> — Technical articles, architecture design notes, and essays on AI-native product building.
+      <strong>🌐 <a href="https://ozayhan.substack.com" target="_blank">ozayhan.substack.com</a></strong> — Inside knowledge on AI building. Deep-dive tips, hands-on experiments, and highly specific agentic hacks that you won't find anywhere else on the internet.
     </td>
   </tr>
 </table>
