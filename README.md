@@ -1,13 +1,13 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090e,30:161233,70:3b0066,100:00f2fe&height=180&section=header&text=Oguz%20Ayhan&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=AI%20Builder%20%7C%20Product%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090e,30:161233,70:3b0066,100:00f2fe&height=130&section=header&text=Oguz%20Ayhan&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=AI%20Builder%20%7C%20Product%20Architect&descAlignY=58&descSize=14&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- BIO & WELCOME -->
 <div align="center">
   <h2>Hey, it's Oguz 👋</h2>
   <p><strong>AI Builder</strong> — I detect problems, write system specs, and orchestrate AI agents to build end-to-end products.</p>
-  <p><em>Minimalist • Disciplined • Value-Oriented • San Francisco Bound</em></p>
+  <p><em>Minimalist • Disciplined • Value-Oriented • End-to-End Project/Feature Development</em></p>
 </div>
 
 ---
@@ -81,7 +81,7 @@
   <tr>
     <td width="25%" valign="middle"><strong>Orchestration &amp; AI</strong></td>
     <td valign="middle">
-      <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" height="24px" />
+      <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=claude&logoColor=white" height="24px" />
       <img src="https://img.shields.io/badge/Conductor-339933?style=for-the-badge&logo=githubactions&logoColor=white" height="24px" />
       <img src="https://img.shields.io/badge/Antigravity-FF007A?style=for-the-badge&logo=terminal&logoColor=white" height="24px" />
     </td>
