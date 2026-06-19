@@ -96,6 +96,12 @@
     <td style="background-color: #09090b; border: 1px solid #1f1f23; border-radius: 8px; padding: 20px;">
       <h3>✨ Let's Collaborate</h3>
       <p>I am open to contract roles, technical product spec-writing, and consulting on AI-native engineering pipelines. If you have an interesting challenge or want to build a product from 0 to 1, feel free to reach out.</p>
+      <br/>
+      <div align="left">
+        <a href="mailto:oguz.ayhan@metu.edu.tr">
+          <img src="https://img.shields.io/badge/📬%20Contact%20Me-oguz.ayhan%40metu.edu.tr-00f2fe?style=for-the-badge&logoColor=000000" alt="Contact Me"/>
+        </a>
+      </div>
     </td>
   </tr>
 </table>
@@ -111,7 +117,7 @@
   <a href="https://linkedin.com/in/ozkayhan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:contact@ouzka.me">
+  <a href="mailto:oguz.ayhan@metu.edu.tr">
     <img src="https://img.shields.io/badge/Email-FF007A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
