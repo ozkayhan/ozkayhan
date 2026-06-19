@@ -72,16 +72,29 @@
 
 ---
 
-## 🛠️ Skills & Frameworks
+## 🛠️ Favorite Stack & Tools
+
+<div align="left">
+  <p>The foundational tools and frameworks I use to build and deploy high-quality web products:</p>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,supabase,vercel,github,vscode,bun&theme=dark" height="42px" />
+</div>
+
+---
+
+## 🤖 Custom AI Agent Skills
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="middle">
-      📦 Core agentic workflows &amp; developer configuration setup: 
-      <strong><a href="https://github.com/ozkayhan/ozskills" target="_blank">ozskills</a></strong>
-    </td>
-    <td width="40%" align="right" valign="middle">
-      <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,supabase,vercel,github&theme=dark" height="35px" />
+    <td style="background-color: #09090b; border: 1px solid #1f1f23; border-radius: 8px; padding: 20px;">
+      <h3>⚡ <a href="https://github.com/ozkayhan/ozskills" target="_blank">ozskills</a> — Self-Architected Agentic Capabilities</h3>
+      <p>Instead of relying on generic behaviors, I design and build my own custom expert skill sets. This repository acts as a cognitive registration layer that equips autonomous AI coding agents with specialized workflows, system access blueprints, and custom decision rules.</p>
+      <br/>
+      <div align="left">
+        <img src="https://img.shields.io/badge/Architecture-Agentic-00f2fe?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Active-39ff14?style=flat-square" />
+        <img src="https://img.shields.io/badge/Purpose-Custom%20Automation-FF007A?style=flat-square" />
+      </div>
     </td>
   </tr>
 </table>
