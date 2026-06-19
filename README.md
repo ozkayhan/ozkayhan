@@ -59,7 +59,7 @@
 <table width="100%">
   <tr>
     <td>
-      <strong>🌐 <a href="https://ozayhan.substack.com" target="_blank">ozayhan.substack.com</a></strong> — Inside knowledge on AI building. Deep-dive tips, hands-on experiments, and highly specific agentic hacks that you won't find anywhere else on the internet.
+      <strong>🌐 <a href="https://ozayhan.substack.com" target="_blank">ozkayhan blog</a></strong> — Inside knowledge on AI building. Deep-dive tips, hands-on experiments, and highly specific agentic hacks that you won't find anywhere else on the internet.
     </td>
   </tr>
 </table>
@@ -81,14 +81,8 @@
 <table width="100%">
   <tr>
     <td style="background-color: #09090b; border: 1px solid #1f1f23; border-radius: 8px; padding: 20px;">
-      <h3>⚡ <a href="https://github.com/ozkayhan/ozskills" target="_blank">ozskills</a> — Self-Architected Agentic Capabilities</h3>
-      <p>Instead of relying on generic behaviors, I design and build my own custom expert skill sets. This repository acts as a cognitive registration layer that equips autonomous AI coding agents with specialized workflows, system access blueprints, and custom decision rules.</p>
-      <br/>
-      <div align="left">
-        <img src="https://img.shields.io/badge/Architecture-Agentic-00f2fe?style=flat-square" />
-        <img src="https://img.shields.io/badge/Status-Active-39ff14?style=flat-square" />
-        <img src="https://img.shields.io/badge/Purpose-Custom%20Automation-FF007A?style=flat-square" />
-      </div>
+      <h3>⚡ <a href="https://github.com/ozkayhan/ozskills/tree/main/skills" target="_blank">skills</a></h3>
+      <p>Custom agent skills that I designed and use on a daily basis.</p>
     </td>
   </tr>
 </table>
