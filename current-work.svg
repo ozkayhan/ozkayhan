@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&amp;family=Fira+Code:wght@400;500&amp;display=swap');
+    .header { font-family: 'Outfit', -apple-system, sans-serif; font-weight: 700; fill: #00f2fe; font-size: 12px; letter-spacing: 2px; }
+    .title { font-family: 'Outfit', -apple-system, sans-serif; font-weight: 600; fill: #ffffff; font-size: 18px; }
+    .label { font-family: 'Outfit', -apple-system, sans-serif; fill: #a1a1aa; font-size: 13px; }
+    .value { font-family: 'Fira Code', monospace; fill: #f4f4f5; font-size: 13px; font-weight: 500; }
+    .tag { font-family: 'Outfit', -apple-system, sans-serif; font-size: 11px; font-weight: 600; fill: #ffffff; }
+    .pulse { animation: blink 1.5s infinite alternate; }
+    @keyframes blink { from { opacity: 0.3; } to { opacity: 1; } }
+  </style>
+  
+  <!-- Background & Border -->
+  <rect width="100%" height="100%" fill="#09090b" rx="10" stroke="#1f1f23" stroke-width="1.5"/>
+  
+  <!-- Status Dot & Header -->
+  <circle cx="35" cy="35" r="5" fill="#39ff14" class="pulse" />
+  <text x="50" y="39" class="header">CURRENT WORK &amp; SPRINT STATUS</text>
+  
+  <!-- Left Side: Focus info -->
+  <text x="35" y="80" class="title">Orchestrating Multi-Agent Frameworks</text>
+  
+  <text x="35" y="122" class="label">Focus Stack:</text>
+  <text x="125" y="122" class="value" fill="#00f2fe">Next.js + Supabase + Tailwind</text>
+  
+  <text x="35" y="152" class="label">Active Tools:</text>
+  <text x="125" y="152" class="value" fill="#ff007a">Claude Code &amp; Conductor.build</text>
+  
+  <!-- Right Side: Pipeline Mock Card -->
+  <rect x="510" y="25" width="255" height="150" fill="#030303" rx="8" stroke="#1f1f23" stroke-width="1" />
+  
+  <text x="530" y="55" class="label">PIPELINE STATUS</text>
+  
+  <!-- Custom Tag -->
+  <rect x="530" y="70" width="85" height="22" rx="4" fill="rgba(0, 242, 254, 0.1)" stroke="#00f2fe" stroke-width="1" />
+  <text x="572.5" y="85" class="tag" fill="#00f2fe" text-anchor="middle">STABLE</text>
+  
+  <text x="530" y="125" class="label">Spec Verification:</text>
+  <text x="530" y="145" class="value" fill="#39ff14">✔ 100% PASSING</text>
+  
+  <!-- Visual mini sparkline on right corner -->
+  <path d="M 670,140 L 690,120 L 710,135 L 730,110 L 750,115" fill="none" stroke="#ff007a" stroke-width="2.5" stroke-linecap="round" />
+  <circle cx="750" cy="115" r="3.5" fill="#ff007a" />
+</svg>
