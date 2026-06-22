@@ -1,7 +1,3 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090e,30:161233,70:3b0066,100:00f2fe&height=130&section=header&text=Oguz%20Ayhan&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=AI%20Builder%20%7C%20Product%20Architect&descAlignY=58&descSize=14&animation=fadeIn](https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=Oguz%20Ayhan&fontSize=44&fontColor=ffd60a&fontAlignY=40&desc=AI%20Builder%20%7C%20Product%20Architect&descAlignY=62&descSize=13&animation=twinkle)" width="100%"/>
-</div>
 
 <!-- BIO & WELCOME -->
 <div align="center">
