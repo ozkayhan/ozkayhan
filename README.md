@@ -1,46 +1,32 @@
 <div align="center">
 
-<h1>Oğuz Kerem Ayhan</h1>
+# Oğuz Kerem Ayhan
 
-<p>Statistics student at METU · AI-assisted product builder</p>
+**AI product builder · Statistics at METU**
 
-<p>I turn problems into system specifications and use AI tools to build end-to-end products.<br>
-My focus is system architecture and understanding the trade-offs behind a working product.</p>
+[LinkedIn](https://www.linkedin.com/in/oguzkeremayhan/) · [Blog](https://ozayhan.substack.com/) · [X](https://x.com/ozkayhan) · [Email](mailto:oguz.ayhan@metu.edu.tr)
 
-<h2>Experience</h2>
+## What I’ve built
 
-<p><strong>AppNava internship</strong><br>
-Built OkuAI end to end during my internship, using an AI-assisted development workflow.</p>
+**At 18, I founded [Mars Akademi](https://www.youtube.com/@keremayhan10k) on my own.**  
+**50+ paying students · 5K YouTube subscribers · 500K+ views**
 
-<h2>Projects</h2>
+I ran marketing, coaching, content and editing solo. AI automation let me do the work of five. It was my first time earning revenue with production AI workflows.
 
-<p><strong><a href="https://okuai.itisimyway.com">OkuAI</a></strong><br>
-Explore the live app.</p>
+**At 19, I helped build [OkuAI](https://okuai.itisimyway.com/).**  
+During my full-stack internship at AppNava (recently raised $2.3M), I helped build an AI exam generator for K–12 teachers in Türkiye that follows the latest national curriculum (MEB).
 
-<p><strong>AI kiosk</strong><br>
-Coming soon.</p>
+**At 20, I’m building AI projects.**
 
-<p><strong><a href="https://github.com/ozkayhan/weatheroz">weatheroz</a></strong><br>
-A weather-forecast CLI for agents.</p>
+## Core stack
 
-<h2>Tools</h2>
+**Languages** · TypeScript, Python, SQL  
+**Frontend** · React, Next.js, Vite, Tailwind CSS, shadcn/ui, SWR, HTML, CSS  
+**Backend & data** · FastAPI, Bun, REST APIs, webhooks, PostgreSQL, Neon, Supabase, Drizzle ORM, Clerk, Better Auth, Google OAuth  
+**AI & automation** · n8n, LLM APIs, OpenAI API, OpenAI Realtime API, Claude Agent SDK, MCP, AI agents, structured outputs, agent evals  
+**Deployment & testing** · Vercel, Azure Container Apps, Playwright, Git, GitHub  
+**Dev tools & design** · Codex, Claude Code, Antigravity, Conductor, VS Code, Figma
 
-<p>TypeScript · JavaScript · Next.js · React · Tailwind CSS<br>
-Supabase · Figma · Vercel · GitHub · VS Code<br>
-Claude Code · Conductor · Antigravity</p>
-
-<h2>Writing &amp; contact</h2>
-
-<p>I write about AI-assisted building, experiments, and agent workflows.</p>
-
-<p>
-<a href="https://ozayhan.substack.com">Blog</a> ·
-<a href="https://linkedin.com/in/ozkayhan">LinkedIn</a> ·
-<a href="https://x.com/ozkayhan">X</a> ·
-<a href="mailto:oguz.ayhan@metu.edu.tr">Email</a>
-</p>
-
-<p>Open to contract roles, technical product specification work,<br>
-and collaboration on AI-native products.</p>
+**Familiar with** · Rust, Go, JavaScript, Node.js
 
 </div>
